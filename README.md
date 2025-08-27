@@ -1,1 +1,3 @@
 # Employee_Burnout_Prediction
+
+“In this project, I developed a machine learning model to predict employee burnout using workplace and behavioral data. I handled data preprocessing by treating missing values, outliers, and noisy entries, along with encoding categorical features using label encoding and one-hot encoding. I applied scaling and normalization techniques to standardize the dataset and used SMOTE to address class imbalance. I performed exploratory data analysis to understand key patterns and applied PCA for dimensionality reduction and feature selection. For modeling, I implemented and compared Random Forest, XGBoost, and Logistic Regression, and evaluated them using performance metrics to select the best-performing model.”
